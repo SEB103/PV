@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/svg/angle-left.svg</file>
+        <file>Images/svg/angle-right.svg</file>
+        <file>Images/svg/bars.svg</file>
+        <file>Images/svg/database.svg</file>
+        <file>Images/svg/info.svg</file>
+        <file>Images/svg/logfile.svg</file>
+        <file>Images/svg/play.svg</file>
+        <file>Images/svg/power-off.svg</file>
+        <file>Images/svg/power-off-red.svg</file>
+        <file>Images/svg/question.svg</file>
+        <file>Images/svg/question2.svg</file>
+        <file>Images/svg/settings.svg</file>
+        <file>Images/svg/statistics.svg</file>
+        <file>Images/svg/statistics2.svg</file>
+        <file>Images/svg/stop.svg</file>
+        <file>Images/svg/toggle-off.svg</file>
+        <file>Images/svg/toggle-on.svg</file>
+        <file>Images/svg/tools.svg</file>
+        <file>Images/svg/user.svg</file>
+        <file>Images/svg/user-hard.svg</file>
+        <file>Images/svg/users.svg</file>
+        <file>Images/svg/volume-off.svg</file>
+    </qresource>
+</RCC>

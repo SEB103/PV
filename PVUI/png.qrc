@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/png/austria.png</file>
+        <file>Images/png/bulgaria.png</file>
+        <file>Images/png/czech.png</file>
+        <file>Images/png/de.png</file>
+        <file>Images/png/france.png</file>
+        <file>Images/png/gb.png</file>
+        <file>Images/png/greece.png</file>
+        <file>Images/png/hungary.png</file>
+        <file>Images/png/poland.png</file>
+        <file>Images/png/romania.png</file>
+        <file>Images/png/ru.png</file>
+        <file>Images/png/sweden.png</file>
+        <file>Images/png/ukraine.png</file>
+    </qresource>
+</RCC>

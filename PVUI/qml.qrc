@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AppMenuBar.qml</file>
+        <file>qml/AppToolBar.qml</file>
+        <file>qml/CcButtonMenu.qml</file>
+        <file>qml/ControlButton.qml</file>
+        <file>qml/ControlButtonsPanel.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Imports/qmldir</file>
+        <file>qml/Imports/Theme/qmldir</file>
+        <file>qml/Imports/Theme/Theme.qml</file>
+        <file>qml/Imports/PVUI/Constants.qml</file>
+        <file>qml/Imports/PVUI/DirectoryFontLoader.qml</file>
+        <file>qml/Imports/PVUI/qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
