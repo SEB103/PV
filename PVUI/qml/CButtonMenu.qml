@@ -7,7 +7,6 @@ T.Button {
     height: 50
 
     autoExclusive: false
-    checkable: true
 
     background: buttonBackground
 

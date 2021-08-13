@@ -1,4 +1,4 @@
-#TEMPLATE = app
+TEMPLATE = app
 TARGET = PV
 
 QT += quick quickcontrols2
@@ -29,3 +29,5 @@ QML_DESIGNER_IMPORT_PATH = $$PWD/QML
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+DISTFILES +=

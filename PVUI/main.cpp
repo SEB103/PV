@@ -1,6 +1,7 @@
 #include <QFontDatabase>
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QQuickStyle>
 
 int main(int argc, char* argv[])
 {
@@ -12,6 +13,8 @@ int main(int argc, char* argv[])
 
   if(QFontDatabase::addApplicationFont(":/fonts/fontello.ttf") == -1)
     qWarning() << "Failed to load fontello.ttf";
+
+  QQuickStyle::setStyle("Material");
 
   QQmlApplicationEngine engine;
   engine.addImportPath(":/qml");
